@@ -1,2 +1,2 @@
 # CVproject
-HTML &amp; CSS Based CV Project 
+https://hasandotdotcom.github.io/CVproject/
